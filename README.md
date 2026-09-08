@@ -4,7 +4,7 @@
 
 A world-class, premium personal portfolio website for **Elavarasan M**, an entry-level Data Analyst specializing in **Power BI, Tableau, SQL, and Microsoft Excel**.
 
-![Portfolio Preview](https://github.com/Elavarasan-prog/elav_portfolio/blob/6b4edb8b55993df867236ae9c6133295acf8a696/preview.png)
+![Portfolio Preview][(https://github.com/Elavarasan-prog/elav_portfolio/blob/6b4edb8b55993df867236ae9c6133295acf8a696/preview.png)].
 
 ---
 
