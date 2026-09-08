@@ -24,7 +24,7 @@ export const SITE_CONFIG = {
     email: "elavarasan.analyst@gmail.com",
     projectRepo: "https://github.com/Elavarasan-prog/elav_portfolio",
   },
-  resumePath: "/resume.pdf",
+  resumePath: "/resume.png",
 };
 
 export const NAV_ITEMS: NavItem[] = [
