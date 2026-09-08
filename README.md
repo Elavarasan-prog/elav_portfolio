@@ -56,7 +56,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the portfolio.
+Open [http://localhost:3000]([http://localhost:3000](https://elav-portfolio.vercel.app/)) in your browser to view the portfolio.
 
 ---
 
